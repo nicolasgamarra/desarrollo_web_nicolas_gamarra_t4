@@ -1,13 +1,13 @@
 # Tarea 4 – Desarrollo de Aplicaciones Web  
-**CC5002 • Otoño 2025**
+
 
 Aplicación Spring Boot que permite:
 
-1. **Listar** las actividades ya finalizadas almacenadas en MySQL.  
-2. **Registrar** una nota (1–7) para cada actividad vía petición REST.  
-3. Calcular y mostrar el **promedio** de cada actividad.  
+1. Listar las actividades ya finalizadas almacenadas en MySQL.  
+2. Registar una nota (1–7) para cada actividad vía petición REST.  
+3. Calcular y mostrar el promedio de cada actividad.  
 
-La interfaz de usuario está construida con Thymeleaf + JavaScript puro.
+La interfaz de usuario está construida con Thymeleaf y JavaScript.
 
 
 
