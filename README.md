@@ -9,13 +9,11 @@ Aplicación Spring Boot que permite:
 
 La interfaz de usuario está construida con Thymeleaf + JavaScript puro.
 
----
+
 
 ## Requisitos
 
 1. JDK 24
 2. MySql
 3. Maven(incorporado con extension pack for java
-
----
 
