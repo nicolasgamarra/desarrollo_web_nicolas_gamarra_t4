@@ -1,4 +1,4 @@
-# Tarea 4 – Desarrollo de Aplicaciones Web  
+Tarea 4 – Desarrollo de Aplicaciones Web  
 
 
 Aplicación Spring Boot que permite:
@@ -11,7 +11,7 @@ La interfaz de usuario está construida con Thymeleaf y JavaScript.
 
 
 
-## Requisitos
+Requisitos
 
 1. JDK 24
 2. MySql
